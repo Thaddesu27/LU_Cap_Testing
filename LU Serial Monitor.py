@@ -27,7 +27,7 @@ def Mbox(title, text, style):
 ##  4 : Yes | No
 ##  5 : Retry | Cancel
 ##  6 : Cancel | Try Again | Continue
-
+# a comment 
 def serial_ports():
     """ Lists serial port names
         :raises EnvironmentError:
